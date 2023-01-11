@@ -123,10 +123,10 @@ body {
 
 ## OUTPUT:
 The output came sucessfully..
-![OUTPUT](./Output.png)
+![OUTPUT](./Home.png)
 
 ### Home Page:
-![OUTPUT](./Home.png)
+![OUTPUT](./Output.png)
 
 ## Result:
 The output came Sucessfully.
