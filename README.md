@@ -122,9 +122,11 @@ body {
 ```
 
 ## OUTPUT:
+The output came sucessfully..
+![OUTPUT](./Output.png)
 
 ### Home Page:
-
+![OUTPUT](./Home.png)
 
 ## Result:
-
+The output came Sucessfully.
